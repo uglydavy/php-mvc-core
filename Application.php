@@ -3,12 +3,12 @@
 /**
  * @author kv.kn <aknk.v@protonmail.ch>
  * @product StudentLife
- * @package app\core
+ * @package uglydavy\phpmvc
  */
 
-namespace app\core;
+namespace uglydavy\phpmvc;
 
-use app\core\db\Database;
+use uglydavy\phpmvc\db\Database;
 use Exception;
 
 /**

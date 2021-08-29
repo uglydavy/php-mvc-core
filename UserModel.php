@@ -2,12 +2,12 @@
 /**
  * @author kv.kn <aknk.v@protonmail.ch>
  * @product StudentLife
- * @package app\core
+ * @package uglydavy\phpmvc
  */
 
-namespace app\core;
+namespace uglydavy\phpmvc;
 
-use app\core\db\DBModel;
+use uglydavy\phpmvc\db\DBModel;
 
 abstract class UserModel extends DBModel
 {

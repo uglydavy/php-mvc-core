@@ -2,7 +2,7 @@
     "name": "uglydavy/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "uglydavy\\phpvcmcore\\": "src/"
+            "uglydavy\\phpmvc\\": "./"
         }
     },
     "authors": [

@@ -2,10 +2,10 @@
 /**
  * @author kv.kn <aknk.v@protonmail.ch>
  * @product StudentLife
- * @package app\core\form
+ * @package uglydavy\phpmvc\form
  */
 
-namespace app\core\form;
+namespace uglydavy\phpmvc\form;
 
 class TextAreaField extends BaseField
 {

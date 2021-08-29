@@ -2,12 +2,12 @@
 /**
  * @author kv.kn <aknk.v@protonmail.ch>
  * @product StudentLife
- * @package app\core
+ * @package uglydavy\phpmvc
  */
 
-namespace app\core\db;
+namespace uglydavy\phpmvc\db;
 
-use app\core\Application;
+use uglydavy\phpmvc\Application;
 use PDO;
 
 /**

@@ -2,12 +2,12 @@
 /**
  * @author kv.kn <aknk.v@protonmail.ch>
  * @product StudentLife
- * @package app\core
+ * @package uglydavy\phpmvc
  */
 
-namespace app\core;
+namespace uglydavy\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use uglydavy\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

@@ -2,10 +2,10 @@
 /**
  * @author kv.kn <aknk.v@protonmail.ch>
  * @product StudentLife
- * @package app\core\exception
+ * @package uglydavy\phpmvc\exception
  */
 
-namespace app\core\exception;
+namespace uglydavy\phpmvc\exception;
 
 use Exception;
 

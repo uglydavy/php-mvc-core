@@ -2,10 +2,10 @@
 /**
  * @author kv.kn <aknk.v@protonmail.ch>
  * @product StudentLife
- * @package app\core\middlewares
+ * @package uglydavy\phpmvc\middlewares
  */
 
-namespace app\core\middlewares;
+namespace uglydavy\phpmvc\middlewares;
 
 abstract class BaseMiddleware
 {

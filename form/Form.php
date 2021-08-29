@@ -2,12 +2,12 @@
 /**
  * @author kv.kn <aknk.v@protonmail.ch>
  * @product StudentLife
- * @package app\core\form
+ * @package uglydavy\phpmvc\form
  */
 
-namespace app\core\form;
+namespace uglydavy\phpmvc\form;
 
-use app\core\Model;
+use uglydavy\phpmvc\Model;
 
 class Form
 {

@@ -2,14 +2,14 @@
 /**
  * @author kv.kn <aknk.v@protonmail.ch>
  * @product StudentLife
- * @package app\core\middlewares
+ * @package uglydavy\phpmvc\middlewares
  */
 
-namespace app\core\middlewares;
+namespace uglydavy\phpmvc\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
-use app\core\exception\NotFoundException;
+use uglydavy\phpmvc\Application;
+use uglydavy\phpmvc\exception\ForbiddenException;
+use uglydavy\phpmvc\exception\NotFoundException;
 
 /**
  * @property array actions = []
