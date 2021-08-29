@@ -1,0 +1,15 @@
+{
+    "name": "uglydavy/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "uglydavy\\phpvcmcore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "uglydavy",
+            "email": "long.shining_0t@icloud.com"
+        }
+    ],
+    "require": {}
+}
